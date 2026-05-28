@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
+  "latestVersionCode": 2
   "latestVersionName": "1.1.0",
-  "updateUrl": "https://yourwebsite.com/downloads/zenith-v1.1.0.apk",
+  "updateUrl": "https://raw.githubusercontent.com/saidismailanik/zenith/main/zenith.apk",
   "isMandatory": true
 }
