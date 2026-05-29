@@ -7,7 +7,7 @@ Zenith lets you browse thousands of movies, stream them instantly, and save your
 
 ## 📲 Installation
 
-1. **Download** the latest `zenith.apk` from the [Releases](../../releases) page.
+1. **Download** the latest `zenith.apk` by clicking [here](http://raw.githubusercontent.com/saidismailanik/zenith/main/zenith.apk)
 2. On your Android device, open **Settings → Security** (or **Privacy**) and enable **Install unknown apps** for your browser or file manager.
 3. Open the downloaded APK and tap **Install**.
 4. Launch **Zenith** from your home screen.
