@@ -12,7 +12,7 @@ Zenith lets you browse thousands of movies, stream them instantly, and save your
 3. Open the downloaded APK and tap **Install**.
 4. Launch **Zenith** from your home screen.
 
-> Requires Android 6.0 (Marshmallow) or higher.
+> Requires Android 7.0 (Nougat) or higher.
 
 > ⚠️ **Google Play Protect warning:** Because Zenith is distributed outside the Play Store, Play Protect may flag it as an unrecognised or unsafe app during installation. This is a standard warning for all sideloaded APKs and does **not** mean the app is harmful. Tap **Install anyway** to proceed.
 
