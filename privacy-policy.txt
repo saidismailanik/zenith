@@ -1,0 +1,187 @@
+PRIVACY POLICY
+Last updated: June 2026
+
+This Privacy Policy describes how Zenith ("we", "us", or "our") 
+collects, uses, and protects information when you use our 
+Android application ("the App").
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. INFORMATION WE COLLECT
+
+1.1 Information You Provide
+• License key you enter to activate Premium
+• Bug reports you send voluntarily via email
+
+1.2 Information Collected Automatically
+• Anonymous usage data (screens visited, features used)
+• Device type and Android version
+• App crash reports
+• General region (country level only, not precise location)
+
+1.3 Information We Do NOT Collect
+• Your name or email address
+• Your precise GPS location
+• Your watch history or search queries
+• Payment information of any kind
+• Personal identification information
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. HOW WE USE YOUR INFORMATION
+
+We use the information collected solely to:
+• Verify premium license key validity
+• Improve app performance and stability
+• Fix bugs and crashes
+• Understand which features are used most
+
+We do not use your information for advertising, 
+profiling, or any commercial purpose beyond 
+operating the App.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. DATA STORAGE
+
+3.1 Local Storage
+The following data is stored locally on your 
+device only and never transmitted to our servers:
+• Your downloaded movies
+• Your watch history and continue watching progress
+• Your app preferences and settings
+
+3.2 Firebase (Google)
+We use Google Firebase for:
+• License key verification (Firebase Realtime Database)
+• Anonymous usage analytics (Firebase Analytics)
+
+Firebase is governed by Google's Privacy Policy:
+https://policies.google.com/privacy
+
+Firebase Analytics data is anonymized and 
+aggregated. We cannot identify individual users 
+from this data.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. DATA SHARING
+
+We do not sell, trade, rent, or share your 
+personal information with any third party 
+except as described below:
+
+• Google Firebase — for license verification 
+  and anonymous analytics as described above
+• Law enforcement — only if required by law
+
+We do not share your data with advertisers, 
+data brokers, or marketing companies.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. THIRD PARTY CONTENT
+
+The App displays movie information sourced 
+from The Movie Database (TMDB):
+https://www.themoviedb.org/privacy-policy
+
+Movie streams are sourced from third party 
+embed players. We do not host, store, or 
+control any video content. We are not 
+responsible for the content, availability, 
+or privacy practices of these third party sources.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. CHILDREN'S PRIVACY
+
+The App is not directed at children under 
+the age of 13. We do not knowingly collect 
+personal information from children under 13.
+
+If you believe a child under 13 has provided 
+us with personal information, please contact 
+us and we will delete it immediately.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. DEVICE PERMISSIONS
+
+The App requests the following permissions:
+
+• INTERNET — Required for streaming movies 
+  and license verification
+• READ/WRITE EXTERNAL STORAGE — Required to 
+  save downloaded movies to your device
+• FOREGROUND SERVICE — Required to continue 
+  downloads when app is in background
+• ACCESS NETWORK STATE — Required to check 
+  internet connectivity before streaming
+
+We do not request access to your contacts, 
+camera, microphone, or precise location.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. DATA RETENTION
+
+• License key data is retained in Firebase 
+  until you request deletion
+• Anonymous analytics data is retained for 
+  14 months per Google's standard policy
+• Local app data remains on your device until 
+  you uninstall the App or clear app data
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. YOUR RIGHTS
+
+You have the right to:
+• Know what data we hold about you
+• Request deletion of your data
+• Opt out of analytics collection
+• Uninstall the App and remove all local data
+
+To exercise any of these rights, contact us at:
+zenithdev.android@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. SECURITY
+
+We take reasonable measures to protect your 
+information. License keys are stored in Firebase 
+with security rules that prevent unauthorized 
+access. Local data on your device is protected 
+by Android's built-in security model.
+
+However, no method of transmission over the 
+internet is 100% secure. We cannot guarantee 
+absolute security of your data.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time 
+to time. When we do, we will notify you through 
+our Telegram channel and update the "Last updated" 
+date at the top of this policy.
+
+Continued use of the App after changes constitutes 
+acceptance of the updated policy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12. CONTACT US
+
+If you have any questions about this Privacy 
+Policy or our data practices, please contact us:
+
+Email: zenithdev.android@gmail.com
+Telegram: https://t.me/zenithstreaming
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+By using Zenith, you agree to this Privacy Policy.
