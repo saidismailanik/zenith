@@ -101,4 +101,4 @@ Zenith is an independent app and is not affiliated with any content provider or 
 
 ---
 
-<p align="center">Made with ❤️ · <a href="../../issues">Report a Bug</a></p>
+<p align="center">Made with ❤️ in Bangladesh · <a href="../../issues">Report a Bug</a></p>
