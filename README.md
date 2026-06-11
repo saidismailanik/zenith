@@ -49,7 +49,6 @@ The home screen surfaces:
 
 ### 🔕 Ad-Free / Premium Mode
 Zenith is free and ad-supported. To go ad-free:
-- **Watch a short rewarded video** in Settings to unlock **2 hours** of uninterrupted viewing.
 - **Unlock permanently** with a one-time premium key — no ads, ever.
 
 ### 🔄 Auto-Updates
@@ -73,11 +72,6 @@ Zenith checks for new versions in the background and notifies you when an update
 ### Resuming a Movie
 From the home screen, find the **Continue Watching** row and tap the title to pick up where you left off.
 
-### Going Ad-Free
-1. Go to the **Settings** tab.
-2. Tap **Watch a video to go ad-free** and complete the short rewarded video.
-3. You'll get **2 hours** of ad-free streaming. Repeat anytime to extend it.
-
 ---
 
 ## ❓ Troubleshooting
@@ -88,7 +82,6 @@ From the home screen, find the **Continue Watching** row and tap the title to pi
 | Download stuck at a percentage | Check your storage space and internet connection, then try again. |
 | App won't install | Make sure *Install unknown apps* is enabled for your browser/file manager in Android settings. |
 | Subtitles not showing | Not all titles have subtitles available. Check the player settings menu during playback. |
-| Ad video won't load | Ad inventory can be low at certain times. Wait a moment and try again. |
 
 ---
 
@@ -108,4 +101,4 @@ Zenith is an independent app and is not affiliated with any content provider or 
 
 ---
 
-<p align="center">Made with ❤️ · <a href="../../issues">Report a Bug</a> · <a href="http://raw.githubusercontent.com/saidismailanik/zenith/main/zenith.apk">Latest Release</a></p>
+<p align="center">Made with ❤️ · <a href="../../issues">Report a Bug</a></p>
